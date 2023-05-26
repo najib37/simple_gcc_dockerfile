@@ -12,7 +12,7 @@ usage:
    >> builder := compiler gcc/g++ (default gcc)
    >> gcc_args := compiling arguments (default "")
    >> name := name of the excutable (default a.out)
-   >> exec_args := execution argumets (defaukt "")
+   >> exec_args := execution argumets (default "")
   
    than run the container using the command :
    
